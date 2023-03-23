@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali (Abdelali) Eljaouhari</h1>
-<h3 align="center">A passionate SWE working with Appian.</h3>
+<h3 align="center">A passionate SWE currently attedning a Walmart sponsored Hackbright Software Engineering Fellowship</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elabdelali&label=Profile%20views&color=0e75b6&style=flat" alt="elabdelali" /> </p>
 
-- 🔭 I’m currently working on **becoming a better SWE.**
+- 🔭 I’m currently working on Technologies such as: **Python**
 
 - 🌱 I’m currently learning **Completing the Java: How to Program, Early Objects**
 
