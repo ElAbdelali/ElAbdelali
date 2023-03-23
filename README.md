@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elabdelali&label=Profile%20views&color=0e75b6&style=flat" alt="elabdelali" /> </p>
 
-- 🔭 I’m currently working on Technologies such as: **Python**
-
-- 🌱 I’m currently learning **Completing the Java: How to Program, Early Objects**
-
-- 👯 I’m looking to collaborate on **Spring/Java Projects**
-
 
 </p>
 
