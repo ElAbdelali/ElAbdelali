@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali (Abdelali) Eljaouhari</h1>
-<h3 align="center">A passionate SWE currently attending a Walmart sponsored Hackbright Software Engineering Fellowship</h3>
+<h3 align="center">A passionate SWE currently working on learning Python!</h3>
 
 
 
