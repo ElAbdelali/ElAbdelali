@@ -1,7 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Ali (Abdelali) Eljaouhari</h1>
-<h3 align="center">A passionate SWE currently working on learning Python!</h3>
+<h3 align="center">A passionate SWE currently undergoing a Fellowship with HackBright Academy</h3>
+
+<p align="center">A passionate SWE currently undergoing a Fellowship with HackBright Academy</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
