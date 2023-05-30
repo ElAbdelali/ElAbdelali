@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali (Abdelali) Eljaouhari</h1>
 <h3 align="center">A passionate SWE undergoing a Fellowship with HackBright Academy</h3>
-<p align="center">Full-Stack Curriculum includes: Python, Java, JavaScript, React, CSS, Flask, Jinja2 and HTML. Database technologies include: PSQL and SQLAlchemy</p>
+<p align="center">Full-Stack Curriculum includes: Python, Java, JavaScript, React, CSS, Flask, Jinja2 and HTML. <br>Database technologies include: PSQL and SQLAlchemy</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
