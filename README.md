@@ -10,7 +10,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg)" alt="flask" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://jinja.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" alt="jinja2" width="40" height="40"/>
